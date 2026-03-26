@@ -1,0 +1,10 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  line-height: 1.5;
+  margin: 16px;
+}
+#handebol {
+  width: 300px;
+  border: 80px solid #e42424;
+  border-radius: 100%;
+}
